@@ -11,7 +11,7 @@ class App extends Component {
     this.state = {
       cats: [],
       searchfield: "",
-    };
+    }
   }
 
   componentDidMount() {
@@ -24,7 +24,7 @@ class App extends Component {
 
   onSearchChange = (event) => {
     this.setState({ searchfield: event.target.value });
-  };
+  }
 
   render() {
     const { cats, searchfield } = this.state;
@@ -34,7 +34,7 @@ class App extends Component {
     });
 
     if (!cats.length) {
-      return <h1>Loading</h1>;
+      return <h1>Loading</h1>
     }
 
     return (
