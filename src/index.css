@@ -30,17 +30,5 @@ body {
   ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
-.title {
-  margin:  1rem auto 3rem;
-  padding: 0 1em;
-  width: fit-content;
-  font-family: 'Rock Salt', cursive;
-  font-weight: 900;
-  font-size: 4rem;
-  text-align: center;
-  color: rgb(243, 116, 255);
-  /* background-color: rgba(255, 255, 255, 0.438); */
-  box-shadow: 0px 0px 8px 3px #FFF;
-  filter: brightness(120%);
-}
+
 
