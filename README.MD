@@ -1,6 +1,6 @@
 # ZTM Course Project
 
-###Learning React:
+### Learning React:
 
 Took the time to learn React and working on getting really good at the MERN stack so that I may build some awesome apps.
 
