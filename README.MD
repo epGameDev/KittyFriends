@@ -2,7 +2,7 @@
 
 ### Learning React:
 
-Took the time to learn React and working on getting really good at the MERN stack so that I may build some awesome apps.
+Took the time to learn a little bit of React while working toward the MERN stack so that I may build some awesome apps.
 
 The original project can be found here: https://github.com/aneagoie/robofriends
 
