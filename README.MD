@@ -2,11 +2,9 @@
 
 ### Learning React:
 
-Took the time to learn a little bit of React while working toward the MERN stack so that I may build some awesome apps.
+Took the time to learn a little bit of React while working toward the MERN stack so that I may build some awesome apps. The purpose of the app is to pull from a public API and use the data in a react app to filter through a list of people or "friends". I chose to use cats because they are better than the robots. :) All in all it was a fun and simple project to get me started in React. 
 
 The original project can be found here: https://github.com/aneagoie/robofriends
-
-I decided to do some changes so that I have a more personal feel and attachment to the project and it was fun all around. Learned some great things and progress is coming great.
 
 Thanks for reading!
 
