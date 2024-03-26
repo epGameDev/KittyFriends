@@ -1,4 +1,5 @@
-import React from "react";
+import PropTypes from "prop-types";
+
 import "../containers/app.css";
 
 const Scroll = (props) => {
@@ -11,3 +12,7 @@ const Scroll = (props) => {
 }
 
 export default Scroll;
+
+Scroll.propTypes = {
+    children: PropTypes.any
+}

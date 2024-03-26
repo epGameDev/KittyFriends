@@ -1,7 +1,8 @@
-import React from "react";
+
+import PropTypes from "prop-types";
 import "../containers/app.css";
 
-const Card = ({name, email, id = 0}) => {
+const Card = ({name, email}) => {
 
     return (
 
@@ -20,3 +21,9 @@ const Card = ({name, email, id = 0}) => {
 }
 
 export default Card;
+
+Card.propTypes = {
+    name: PropTypes.string,
+    email: PropTypes.string,
+    id: PropTypes.number
+}

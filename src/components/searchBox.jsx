@@ -1,4 +1,4 @@
-import React from "react";
+import PropTypes from "prop-types";
 import "../containers/app.css";
 
 const SearchBox = ({ searchChange }) => {
@@ -16,3 +16,7 @@ const SearchBox = ({ searchChange }) => {
 };
 
 export default SearchBox;
+
+SearchBox.propTypes = {
+  searchChange: PropTypes.func,
+}

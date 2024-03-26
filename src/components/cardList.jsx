@@ -1,4 +1,4 @@
-import React from "react";
+import PropTypes from "prop-types";
 import Card from "./card";
 import "../containers/app.css";
 
@@ -27,3 +27,7 @@ const CardList = ({cats}) => {
 }
 
 export default CardList;
+
+CardList.propTypes = {
+    cats: PropTypes.array
+}
